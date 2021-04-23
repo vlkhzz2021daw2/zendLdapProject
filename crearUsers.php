@@ -69,7 +69,7 @@
 			Description: <input type="text" name="descrNumInp"><br>
 			
 			
-			<input type="submit" value="Envia" />
+			<input type="submit" value="Crear" />
 			<input type="reset" value="Neteja" /></br>
 			
 			<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/index.php">Torna a la pàgina inicial</a>

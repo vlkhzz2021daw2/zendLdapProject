@@ -35,8 +35,8 @@
         	<h1>Introdusca dades del usuario que quers consultar</h1>
         	Usuari: <input type="text" name="usr"><br>
         	Unitat organitzativa: <input type="text" name="ou"><br>        	
-        	<input type="submit"/>
-        	<input type="reset"/>
+        	<input type="submit" value="Consultar"/>
+        	<input type="reset" value="Neteja"/>
     	</form>
     </body>
 </html>
