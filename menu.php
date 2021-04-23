@@ -7,7 +7,7 @@
 	<body>
 		<h2> MENÚ PRINCIPAL DE L'APLICACIÓ D'ACCÉS A BASES DE DADES LDAP</h2>
 		<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/visDades.php">Visualització de totes les dades</a></br>
-		<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/xrearUsers.php">Crear un Usuario</a></br>
+		<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/crearUsers.php">Crear un Usuario</a></br>
 		<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/index.php">Torna a la pàgina inicial</a>
 	</body>
 </html>
