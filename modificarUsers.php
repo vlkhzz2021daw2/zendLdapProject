@@ -52,18 +52,18 @@
                 <label for="uidNumber">Uid Number</label>
                 <input type="radio" id="gidNumber" name="atribut" value="gidNumber">
                 <label for="gidNumber">Gid Number</label>
-                <input type="radio" id="directoriPersonal" name="atribut" value="directoriPersonal">
-                <label for="directoriPersonal">Directori personal</label></br>
-                <input type="radio" id="shell" name="atribut" value="shell">
-                <label for="shell">Shell</label> 
+                <input type="radio" id="homeDirectory" name="atribut" value="homeDirectory">
+                <label for="homeDirectory">Directori personal</label></br>
+                <input type="radio" id="loginShell" name="atribut" value="loginShell">
+                <label for="loginShell">Shell</label> 
                 <input type="radio" id="cn" name="atribut" value="cn">
                 <label for="cn">CN</label> 
                 <input type="radio" id="sn" name="atribut" value="sn">
                 <label for="sn">SN</label> </br>
                 <input type="radio" id="givenName" name="atribut" value="givenName">
                 <label for="givenName">Given Name</label> 
-                <input type="radio" id="PostalAdress" name="atribut" value="PostalAdress">
-                <label for="PostalAdress">Postal Adress</label> 
+                <input type="radio" id="postalAddress" name="atribut" value="postalAddress">
+                <label for="postalAddress">Postal Adress</label> 
                 <input type="radio" id="mobile" name="atribut" value="mobile">
                 <label for="mobile">Mobile</label></br>
                 <input type="radio" id="telephoneNumber" name="atribut" value="telephoneNumber">
