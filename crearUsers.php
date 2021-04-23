@@ -66,13 +66,13 @@
 			Mobile: <input type="text" name="mobInp"><br>
 			TelephoneNumber: <input type="text" name="telNumInp"><br>
 			Title: <input type="text" name="titleInp"><br>
-			Description: <input type="text" name="descrNumInp"><br>
-			
+			Description: <input type="text" name="descrNumInp"><br>		
 			
 			<input type="submit" value="Crear" />
 			<input type="reset" value="Neteja" /></br>
 			
-			<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/index.php">Torna a la pàgina inicial</a>
 		</form>
+		<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/menu.php">Torna a MENU</a></br>
+        	<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/index.php">Torna a la pàgina inicial</a>
 	</body>
 </html>

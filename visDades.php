@@ -38,5 +38,7 @@
         	<input type="submit" value="Consultar"/>
         	<input type="reset" value="Neteja"/>
     	</form>
+    	<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/menu.php">Torna a MENU</a></br>
+        	<a href="http://zend-vlkh.fjeclot.net/zendLdapProject/index.php">Torna a la pàgina inicial</a>
     </body>
 </html>
